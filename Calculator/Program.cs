@@ -17,7 +17,7 @@ namespace Calculator
             //Type how many beans you want to calculate and how you want 
             Console.WriteLine("Type in the amount of beans you have");
             num1 = Convert.ToInt32(Console.ReadLine());
-
+            String Name = "Bean";
 
 
 
